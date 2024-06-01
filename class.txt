@@ -5,9 +5,9 @@ Cyan
 Yellow
 Charcoal
 Khaki
-Coral
-Silver
-Fuchsia
-Purple
-Brown
-Red
+000
+000
+000
+000
+000
+000
